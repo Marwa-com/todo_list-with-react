@@ -1,4 +1,4 @@
-import {SHOW_ALL, SHOW_COMPLETED,SHOW_ACTIVE } from './actions';
+import { SHOW_COMPLETED } from './actions';
 import { todos} from "./states"; //pour une liste de taches prédéfinie
 const initialState ={
     //todos, 
