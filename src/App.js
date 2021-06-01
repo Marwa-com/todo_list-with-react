@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
     <div className="App_container">
+      <h1 style={{color:"darkorange",  justifyContent:"center"}}> TO-DO LIST </h1>
       <Addtask/>
       <Tasklist/>
       <Filtre /> 
